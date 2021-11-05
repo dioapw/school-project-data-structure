@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636101770 source:c:\users\dio abadeer\documents\documents_tags\main.cpp
+	"doc_tag.h"
+
+1636101354 c:\users\dio abadeer\documents\documents_tags\doc_tag.h
+	<iostream>
+
