@@ -1,4 +1,4 @@
-# The Final Project of The Data Structure Course
+# The Document and Tag Problem
 
 ## Problem
 Manage a multi-linked list that models documents, tags, and relationships between them. A document may have more than one tag and some documents may have some similar tags.
