@@ -36,7 +36,7 @@ Type list_doc<
             >
 ```
 
-## List of Procedures and Funtions
+## List of Procedures and Functions
 
 ```
 Procedure createListDoc(in/out L : list_doc)
